@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <em>
-    Je suis<b> MBOHOU yvan</b>,en Quatrième année <b> d'Ingénierie Logiciel </b> à <a href="https://www.iit.ac.lk/"> <b>L'Ecole nationale Superieure Polytechnique de Douala</b></a>.
+    Je suis<b> Mbohou yvan</b>,en Quatrième année <b> d'Ingénierie Logiciel </b> à <a href="https://www.iit.ac.lk/"> <b>L'Ecole nationale Superieure Polytechnique de Douala</b></a>.
     J'aspire à devenir un <b>Ingenieur logiciel,</b>&nbsp; <b>Un programmeur compétitif</b>&nbsp; et un <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   
