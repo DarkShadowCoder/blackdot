@@ -44,10 +44,10 @@
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code> 
 </details>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdot&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackShadowCoder2&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /> </p>
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Blackdot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=lackdot&theme=nightowl&hide_border=true&fire=DD2727" alt="BlackShadow" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Blackdot&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarkShadowCoder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=nightowl&hide_border=true&fire=DD2727" alt="BlackShadow" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
 </p>
