@@ -62,4 +62,4 @@
 
 <summary>Github Stats</summary>
 
-[![tushar104's GitHub stats](https://stats.quine.sh/eivos25/github)](https://stats.quine.sh/eivos25/github)
+[![tushar104's GitHub stats](https://stats.quine.sh/Blackdot/github)](https://stats.quine.sh/Blackdot/github)
