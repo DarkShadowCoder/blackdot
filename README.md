@@ -61,5 +61,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <summary>Github Stats</summary>
-
-[![tushar104's GitHub stats](https://stats.quine.sh/Blackdot/github)](https://stats.quine.sh/Blackdot/github)
