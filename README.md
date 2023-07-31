@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <em>
-    Je suis<b> MBOHOU yvan</b>,en Quatrième année<b>d'Ingénierie Logiciel</b> à <a href="https://www.iit.ac.lk/"> <b>L'Ecole nationale Superieure Polytechnique de Douala</b></a>.
+    Je suis<b> MBOHOU yvan</b>,en Quatrième année <b> d'Ingénierie Logiciel </b> à <a href="https://www.iit.ac.lk/"> <b>L'Ecole nationale Superieure Polytechnique de Douala</b></a>.
     J'aspire à devenir un <b>Ingenieur logiciel,</b>&nbsp; <b>Un programmeur compétitif</b>&nbsp; et un <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   
@@ -47,7 +47,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdot&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /> </p>
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackdot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=blackdot&theme=nightowl&hide_border=true&fire=DD2727" alt="BlackShadow" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=blackdot&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eivos25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=eivos25&theme=nightowl&hide_border=true&fire=DD2727" alt="BlackShadow" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=eivos25&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
 </p>
