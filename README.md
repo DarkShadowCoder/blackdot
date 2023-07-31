@@ -47,7 +47,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdot&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /> </p>
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eivos25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=eivos25&theme=nightowl&hide_border=true&fire=DD2727" alt="BlackShadow" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=eivos25&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Blackdot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=lackdot&theme=nightowl&hide_border=true&fire=DD2727" alt="BlackShadow" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Blackdot&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
 </p>
