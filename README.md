@@ -61,3 +61,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <summary>Github Stats</summary>
+[!DarkShadowCoder's GitHub | Stats](https://stats.quine.sh/DarkShadowCoder/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606)
+
+[![DarkShadowCoder's GitHub | Languages Over Time](https://stats.quine.sh/DarkShadowCoder6/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606)
