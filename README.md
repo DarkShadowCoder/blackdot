@@ -62,6 +62,3 @@
 
 <summary>Github Stats</summary>
 
-[![DarkShadowCoder's GitHub | Stats](https://stats.quine.sh/eivos25/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eivos25)
-
-[![DarkShadowCoder's GitHub | Languages Over Time](https://stats.quine.sh/eivos25/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eivos25)
