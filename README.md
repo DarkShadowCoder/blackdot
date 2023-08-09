@@ -8,8 +8,8 @@
 </p>
 <p align="center">
 <em>
-    Je suis<b> Mbohou yvan</b>,en Quatrième année <b> d'Ingénierie Logiciel </b> à <a href="https://www.bing.com/ck/a?!&&p=c408dc4e78f28f0aJmltdHM9MTY5MTAyMDgwMCZpZ3VpZD0wYzkyMDI1OC1hOGUwLTY4NTMtMGRiZi0xMTBmYTkzOTY5ZmQmaW5zaWQ9NTE3Mg&ptn=3&hsh=3&fclid=0c920258-a8e0-6853-0dbf-110fa93969fd&psq=Ecolde+nationale+Superieure+Polytechnique+de+Douala&u=a1aHR0cHM6Ly9lbnNwZC11ZG8uY20v&ntb=1"> <b>L'Ecole nationale Superieure Polytechnique de Douala</b></a>.
-    J'aspire à devenir un <b>Ingenieur logiciel,</b>&nbsp; <b>Un programmeur compétitif</b>&nbsp; et un <b> Artificial Intelligence Enthusiast.</b> 
+    Je suis <b> Mbohou yvan</b>, étudiant en Quatrième année <b> d'Ingénierie Logiciel </b> à l'<a href="https://www.bing.com/ck/a?!&&p=c408dc4e78f28f0aJmltdHM9MTY5MTAyMDgwMCZpZ3VpZD0wYzkyMDI1OC1hOGUwLTY4NTMtMGRiZi0xMTBmYTkzOTY5ZmQmaW5zaWQ9NTE3Mg&ptn=3&hsh=3&fclid=0c920258-a8e0-6853-0dbf-110fa93969fd&psq=Ecolde+nationale+Superieure+Polytechnique+de+Douala&u=a1aHR0cHM6Ly9lbnNwZC11ZG8uY20v&ntb=1"> <b>Ecole Nationale Superieure Polytechnique de Douala</b></a>.
+    J'aspire à devenir un <b>Ingenieur logiciel,</b>&nbsp; <b>un programmeur compétitif</b>&nbsp; et un <b>spécialiste dans le domaine de  l'Intelligence Artificielle</b> 
   <br>
   
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
@@ -48,7 +48,7 @@
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code> 
 </details>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackShadowCoder2&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackShadowCoder2&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /></p>
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarkShadowCoder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
