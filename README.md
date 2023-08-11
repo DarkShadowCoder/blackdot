@@ -51,15 +51,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackShadowCoder2&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /></p>
 
 <p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder" alt="blackdot" /></a> </p> 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p> 
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=nightowl&hide_border=true&fire=DD2727" alt="DarkShadow" />
   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
 </p>
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder" alt="blackdot" /></a> </p> 
 
 <summary>Github Stats</summary>
 
