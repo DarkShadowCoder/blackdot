@@ -51,7 +51,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackShadowCoder2&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /></p>
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarkShadowCoder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder" alt="blackdot" /></a> </p> 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p> 
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=nightowl&hide_border=true&fire=DD2727" alt="DarkShadow" />
   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
 </p>
