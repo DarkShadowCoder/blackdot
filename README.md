@@ -57,7 +57,7 @@
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder" alt="blackdot" /></a> </p> 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) </p> 
 
 <summary>Github Stats</summary>
 
