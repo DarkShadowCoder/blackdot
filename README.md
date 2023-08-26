@@ -15,7 +15,7 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>Quelques petits choses me concernant 🧑</h3>
 
 - 🧞 Je suis passioné des Technologies depuis l'enfance.
 - 🔭 J'ai courrament travaillé sur un projet de developpemt web et Machine Learning.
